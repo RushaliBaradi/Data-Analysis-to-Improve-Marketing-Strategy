@@ -45,7 +45,7 @@ Revitalize Content Strategy: To turn around declining views and low interaction 
 Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 6. Screenshots / Demo
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview]([screenshots/dashboard_overview.png](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Conversion.png))
 ![Channel Filter View](screenshots/channel_filter.png)
 ![Conversion Trends](screenshots/conversion_trends.png)
 
