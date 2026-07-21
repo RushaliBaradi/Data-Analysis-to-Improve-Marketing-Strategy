@@ -12,6 +12,12 @@ The dashboard was built using the following tools and technologies:
 - 📁 File Format – .pbix for development, .png for dashboard preview images.
 
 **Features / Highlights**
+
+**Key Performance Indicators (KPIs)** 
+- **Conversion Rate:** Percentage of website visitors who make a purchase.
+- **Customer Engagement Rate:** Level of interaction with marketing content (clicks, likes, comments).
+- **Customer Feedback Score:** Average rating from customer reviews.
+
 **Business Problem**
 - **Decreased Conversion Rates:** The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
 - **Reduced Customer Engagement:** There is a decline in overall social media engagement, with views dropping throughout the year.
@@ -29,18 +35,6 @@ Insight: Analyze interaction levels with different types of marketing content to
 - **Improve Customer Feedback Scores:**
 Goal: Understand common themes in customer reviews and provide actionable insights.
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
-
-
-<img width="1150" height="460" alt="image" src="https://github.com/user-attachments/assets/64e672cc-2651-4f8a-bf4c-71d36205fcb7" />
-
-
-**Key Performance Indicators (KPIs)** 
-- **Conversion Rate:** Percentage of website visitors who make a purchase.
-- **Customer Engagement Rate:** Level of interaction with marketing content (clicks, likes, comments).
-- **Customer Feedback Score:** Average rating from customer reviews.
-
-<img width="2411" height="451" alt="image" src="https://github.com/user-attachments/assets/11532ae1-584a-43b4-b78b-f6d1be5850cd" />
-
 
 **ACTIONS**
 - **Increase Conversion Rates:**
