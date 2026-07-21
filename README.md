@@ -4,12 +4,12 @@ An interactive Power BI dashboard built to analyze marketing campaign performanc
 
 **Tech Stack**
 The dashboard was built using the following tools and technologies:
-📊 Power BI Desktop – Main data visualization platform used for report creation.
-📂 Power Query – Data transformation and cleaning layer for reshaping and preparing raw marketing data.
-🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional visual logic.
-🗄️ SQL – Used for querying, aggregating, and preparing data prior to loading into Power BI.
-📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation.
-📁 File Format – .pbix for development, .png for dashboard preview images.
+- 📊 Power BI Desktop – Main data visualization platform used for report creation.
+- 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing raw marketing data.
+- 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional visual logic.
+- 🗄️ SQL – Used for querying, aggregating, and preparing data prior to loading into Power BI.
+- 📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation.
+- 📁 File Format – .pbix for development, .png for dashboard preview images.
 
 Features / Highlights
 **Business Problem**
