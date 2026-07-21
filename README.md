@@ -27,14 +27,14 @@ Although stable, the average rating is below the target of 4.0, suggesting a nee
 
 **Goal of the Dashboard**
 - **Increase Conversion Rates:**
-Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
-Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
+- Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
+- Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
 - **Enhance Customer Engagement:**
-Goal: Determine which types of content drive the highest engagement. 
-Insight: Analyze interaction levels with different types of marketing content to inform better content strategies.
+- Goal: Determine which types of content drive the highest engagement. 
+- Insight: Analyze interaction levels with different types of marketing content to inform better content strategies.
 - **Improve Customer Feedback Scores:**
-Goal: Understand common themes in customer reviews and provide actionable insights.
-Insight: Identify recurring positive and negative feedback to guide product and service improvements.
+- Goal: Understand common themes in customer reviews and provide actionable insights.
+- Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
 **ACTIONS**
 - **Increase Conversion Rates:**
@@ -45,9 +45,6 @@ Revitalize Content Strategy: To turn around declining views and low interaction 
 Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 6. Screenshots / Demo
-
-[Add 2–4 screenshots of your actual dashboard here, e.g.:]
-
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 ![Channel Filter View](screenshots/channel_filter.png)
 ![Conversion Trends](screenshots/conversion_trends.png)
