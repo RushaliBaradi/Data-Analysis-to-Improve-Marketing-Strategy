@@ -16,35 +16,46 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development, .png for dashboard preview images
 
 Features / Highlights
-Business Problem
+**Business Problem**
+**Decreased Conversion Rates:** The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
+**Reduced Customer Engagement:** There is a decline in overall social media engagement, with views dropping throughout the year.
+While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
+**Customer Feedback Analysis:** Customer ratings have remained consistent, averaging around 3.7 throughout the year.
+Although stable, the average rating is below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
 
-[1–3 sentences: what real problem does this dashboard address? e.g., "Marketing teams often struggle to see which channels and campaigns are actually driving conversions, making it hard to allocate budget effectively."]
+**Goal of the Dashboard**
+**Increase Conversion Rates:**
+Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
+Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
+**Enhance Customer Engagement:**
+Goal: Determine which types of content drive the highest engagement. 
+Insight: Analyze interaction levels with different types of marketing content to inform better content strategies.
+**Improve Customer Feedback Scores:**
+Goal: Understand common themes in customer reviews and provide actionable insights.
+Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
-Goal of the Dashboard
 
-To deliver an interactive tool that:
+<img width="1150" height="460" alt="image" src="https://github.com/user-attachments/assets/64e672cc-2651-4f8a-bf4c-71d36205fcb7" />
 
-Enables users to explore campaign performance across channels, time periods, and customer segments
-Supports decisions such as budget allocation, channel prioritization, and campaign optimization
-Uncovers trends in customer engagement and conversion behavior
-Walkthrough of Key Visuals
 
-[Replace with your actual visuals — list each chart/section and what it shows. Example format below:]
+**Key Performance Indicators (KPIs)** 
+**Conversion Rate:** Percentage of website visitors who make a purchase.
+**Customer Engagement Rate:** Level of interaction with marketing content (clicks, likes, comments).
+**Customer Feedback Score:** Average rating from customer reviews.
 
-Key KPIs (Top Section): Total campaigns, total conversions, overall conversion rate, total spend, ROI
-Channel Filter Panel: Interactive slicer to filter all visuals by marketing channel (e.g., email, social, paid search)
-Conversion Rate by Campaign (Bar Chart): Ranks campaigns by conversion rate to highlight top and underperforming campaigns
-Engagement Over Time (Line Chart): Shows trends in customer engagement/clicks across the campaign timeline
-Customer Segments (Breakdown Chart): Compares performance across customer segments or demographics
-Spend vs. Conversion (Scatter/Combo Chart): Highlights which channels deliver the best return relative to spend
-Business Impact & Insights
+<img width="2411" height="451" alt="image" src="https://github.com/user-attachments/assets/11532ae1-584a-43b4-b78b-f6d1be5850cd" />
 
-[Replace with your actual findings, similar to:]
 
-Budget Optimization: Identifies which channels/campaigns deliver the strongest ROI, supporting smarter spend allocation
-Campaign Strategy: Highlights underperforming campaigns early, enabling faster course-correction
-Customer Targeting: Surfaces which customer segments respond best to which campaign types
-Trend Monitoring: Tracks engagement and conversion trends over time to inform future campaign planning
+**ACTIONS**
+**Increase Conversion Rates:**
+Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
+**Enhance Customer Engagement:**
+Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user-generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September-December).
+**Improve Customer Feedback Scores:**
+Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
+
+<img width="3163" height="323" alt="image" src="https://github.com/user-attachments/assets/ef4b6f5e-740f-48aa-9cdb-1028c4dc1a16" />
+
 6. Screenshots / Demo
 
 [Add 2–4 screenshots of your actual dashboard here, e.g.:]
@@ -53,6 +64,3 @@ Trend Monitoring: Tracks engagement and conversion trends over time to inform fu
 ![Channel Filter View](screenshots/channel_filter.png)
 ![Conversion Trends](screenshots/conversion_trends.png)
 
-[If you have a demo video or a published Power BI link, add it here too:]
-
-📹 Demo Video: [Add link if available] 🔗 Live Report (if published): [Add Power BI publish-to-web link if available]
