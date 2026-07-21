@@ -11,22 +11,22 @@ The dashboard was built using the following tools and technologies:
 - 📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation.
 - 📁 File Format – .pbix for development, .png for dashboard preview images.
 
-Features / Highlights
+**Features / Highlights**
 **Business Problem**
-**Decreased Conversion Rates:** The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
-**Reduced Customer Engagement:** There is a decline in overall social media engagement, with views dropping throughout the year.
+- **Decreased Conversion Rates:** The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
+- **Reduced Customer Engagement:** There is a decline in overall social media engagement, with views dropping throughout the year.
 While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
-**Customer Feedback Analysis:** Customer ratings have remained consistent, averaging around 3.7 throughout the year.
+- **Customer Feedback Analysis:** Customer ratings have remained consistent, averaging around 3.7 throughout the year.
 Although stable, the average rating is below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
 
 **Goal of the Dashboard**
-**Increase Conversion Rates:**
+- **Increase Conversion Rates:**
 Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
 Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
-**Enhance Customer Engagement:**
+- **Enhance Customer Engagement:**
 Goal: Determine which types of content drive the highest engagement. 
 Insight: Analyze interaction levels with different types of marketing content to inform better content strategies.
-**Improve Customer Feedback Scores:**
+- **Improve Customer Feedback Scores:**
 Goal: Understand common themes in customer reviews and provide actionable insights.
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
@@ -35,19 +35,19 @@ Insight: Identify recurring positive and negative feedback to guide product and 
 
 
 **Key Performance Indicators (KPIs)** 
-**Conversion Rate:** Percentage of website visitors who make a purchase.
-**Customer Engagement Rate:** Level of interaction with marketing content (clicks, likes, comments).
-**Customer Feedback Score:** Average rating from customer reviews.
+- **Conversion Rate:** Percentage of website visitors who make a purchase.
+- **Customer Engagement Rate:** Level of interaction with marketing content (clicks, likes, comments).
+- **Customer Feedback Score:** Average rating from customer reviews.
 
 <img width="2411" height="451" alt="image" src="https://github.com/user-attachments/assets/11532ae1-584a-43b4-b78b-f6d1be5850cd" />
 
 
 **ACTIONS**
-**Increase Conversion Rates:**
+- **Increase Conversion Rates:**
 Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
-**Enhance Customer Engagement:**
+- **Enhance Customer Engagement:**
 Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user-generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September-December).
-**Improve Customer Feedback Scores:**
+- **Improve Customer Feedback Scores:**
 Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 6. Screenshots / Demo
