@@ -11,6 +11,9 @@ The dashboard was built using the following tools and technologies:
 - 📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation.
 - 📁 File Format – .pbix for development, .png for dashboard preview images.
 
+![Overview](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Overview.png)
+
+
 **Features / Highlights**
 
 **Key Performance Indicators (KPIs)** 
@@ -45,7 +48,7 @@ Revitalize Content Strategy: To turn around declining views and low interaction 
 Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 6. Screenshots / Demo
-![Channel Filter View](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Conversion.png)
-![Channel Filter View](screenshots/channel_filter.png)
-![Conversion Trends](screenshots/conversion_trends.png)
+![Conversion_Rate](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Conversion.png)
+![Social_Media](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Social_Media.png)
+![Customer_Review](https://github.com/RushaliBaradi/Data-Analysis-to-Improve-Marketing-Strategy/blob/main/Customer_Review.png)
 
