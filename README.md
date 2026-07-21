@@ -1,19 +1,15 @@
 # Data-Analysis-to-Improve-Marketing-Strategy
-Marketing Strategy Analytics Dashboard built with Power BI, SQL, and Python. Performed data extraction, transformation, KPI analysis, and visualization to evaluate campaign performance, customer engagement, conversion rates, and customer feedback, enabling data-driven marketing decisions.
-
 📊 Marketing Analytics Dashboard
 An interactive Power BI dashboard built to analyze marketing campaign performance, customer engagement, and conversion metrics — designed to help marketing teams and stakeholders identify what's driving (or holding back) campaign results.
 
-Tech Stack
-
+**Tech Stack**
 The dashboard was built using the following tools and technologies:
-
-📊 Power BI Desktop – Main data visualization platform used for report creation
-📂 Power Query – Data transformation and cleaning layer for reshaping and preparing raw marketing data
-🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional visual logic
-🗄️ SQL – Used for querying, aggregating, and preparing data prior to loading into Power BI
-📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation
-📁 File Format – .pbix for development, .png for dashboard preview images
+📊 Power BI Desktop – Main data visualization platform used for report creation.
+📂 Power Query – Data transformation and cleaning layer for reshaping and preparing raw marketing data.
+🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional visual logic.
+🗄️ SQL – Used for querying, aggregating, and preparing data prior to loading into Power BI.
+📝 Data Modeling – Relationships established between tables (e.g., campaigns, customers, transactions) to enable cross-filtering and aggregation.
+📁 File Format – .pbix for development, .png for dashboard preview images.
 
 Features / Highlights
 **Business Problem**
@@ -53,8 +49,6 @@ Target High-Performing Product Categories: Focus marketing efforts on products w
 Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user-generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September-December).
 **Improve Customer Feedback Scores:**
 Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
-
-<img width="3163" height="323" alt="image" src="https://github.com/user-attachments/assets/ef4b6f5e-740f-48aa-9cdb-1028c4dc1a16" />
 
 6. Screenshots / Demo
 
